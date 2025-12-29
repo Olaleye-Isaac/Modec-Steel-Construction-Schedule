@@ -13,7 +13,7 @@ The schedule covers:
 - Final Inspection
 
 ## Schedule Snapshot
-![Steel Project Gantt](04_Gantt_Charts/Steel_Project_Gantt.png)
+![Steel Project Gantt](https://drive.google.com/file/d/1KRVj_6R_fSJMBAk3_OoPko-2eL7D3AJ8/view?usp=drive_link))
 
 ## Key Highlights
 - WBS-based planning (Shop vs Field)
